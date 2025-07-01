@@ -1,5 +1,4 @@
 
-```markdown
 # AI Image Generator App
 
 ![AI Image Generator](https://via.placeholder.com/600x200.png?text=AI+Image+Generator+App)
@@ -78,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out for any questions or feedback!
 
-```
+
 
 ### Instructions for Customization:
 - Replace `yourusername` in the clone URL with your actual GitHub username.

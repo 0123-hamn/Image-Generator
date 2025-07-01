@@ -1,7 +1,6 @@
 
 # AI Image Generator App
 
-![AI Image Generator](https://via.placeholder.com/600x200.png?text=AI+Image+Generator+App)
 
 ## Description
 

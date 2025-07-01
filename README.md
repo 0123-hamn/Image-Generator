@@ -1,4 +1,3 @@
-Here's a sample GitHub README for your AI Image Generator App. You can customize it further based on your preferences and additional details about your project.
 
 ```markdown
 # AI Image Generator App

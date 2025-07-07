@@ -10,7 +10,7 @@ st.write("Enter a prompt and click 'Generate' to create an image")
 
 prompt = st.text_input("Enter your image prompt: ")
 
-API_KEY = "AIzaSyDd3JZ68VJsbjGtR7Ri9azoIbK4szySwcQ"
+API_KEY = "AIzaSyAYxztpzsbIagMHVWIv6jJAjU7Bm02e-1Y"
 ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-preview-image-generation:generateContent"
 
 if st.button("Generate"):
